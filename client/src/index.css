@@ -9,3 +9,11 @@
     font-style: normal;
   }
   
+  .custom_home_bg{
+    background-image: url('https://t3.ftcdn.net/jpg/05/95/16/64/360_F_595166423_JEKn1fcm8UBd81ijRYCy4J5ofvJGvxm0.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:full;
+    height:full;
+    object-fit: cover;
+  }
